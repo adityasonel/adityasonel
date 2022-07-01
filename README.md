@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">Just another one in million trying to understand 01100001 better than any thing..</h3>
+<h1>Hey, I'm Aditya Sonel</p></h1>
+<h3>Just another one in million trying to understand 01100001 better than any thing..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasonel&label=Profile%20views&color=0e75b6&style=flat" alt="adityasonel" /> </p>
 
